@@ -20,5 +20,5 @@ From the summary table below, we can find that:
 - The results of the total number of rides,total number of drivers and total fares by city type show us that there is a lot of demand for Py-Ber rides in the Urban cities than rural or suburban cities. Hence, more revenue(~63%) comes from Urban cities. **Any improvements or new rollouts must be send out to this city type first**.
 - We can however find that **the number of drivers in the urban cities is higher than the number of rides.** This means that some of the drivers are not getting enough Business. **This is also reflected in the Average fare per Driver values which is lowest for urban cities, where there is more supply(drivers) than demand(rides).**  
 So, these drivers can be useful in the other two city types where is more demand for drivers.
-### Increase the number of drivers in rural and suburban cities
+- **Increase the number of drivers in rural and suburban cities**
 The Average fare per ride is the highest in the rural cities which might be because the price of a ride is higher because of more demand and less supply(surge pricing). (Or people take rides for longer distances/duration in the rural cities). This surge pricing  might be a deterrent for residents in rural cities(and likeise in suburban cities) and a factor for the lower number of rides in the rural cities. 
