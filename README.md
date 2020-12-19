@@ -4,7 +4,7 @@ This project summarizes the Py-Ber data for the user by city type using Pandas a
 - The first part of the project summarizes the data by city type in a DataFrame as below. This is achieved using the grouby(), sum() and count() functions.
 [Py-Ber Summary by City Type]()
 - The second part plots a multi-line graph that shows the total weekly fares for each city type as below. This is achieved using the pivot() and resample() functions of Pandas.
-[Total Weekly Fares by City type]()
+[Total Weekly Fares by City type](analysis/PyBer_fare_summary.png)
 - We then highlight the diferences in data for each city type that can be used to make strategic decisions by the Py-Ber team.
 ## Results
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
