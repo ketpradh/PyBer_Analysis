@@ -10,11 +10,11 @@ From the summary table below, we can find that:
 ![Py-Ber Summary by City Type](https://github.com/ketpradh/PyBer_Analysis/blob/main/Summary%20by%20city%20type.PNG)
 - Urban cities have more number of rides than the other two city types, more than twice than Suburban cities and thirteen times higher than rural cities. 
 - Urban cities have more number of drivers than the other two city types. Suburban comes second and rural third. The driver count in the urban cities is almost 5 times to that of suburban cities and 30 times to that of rural cities. More drivers are employed by Py-Ber in urban cities than others.
-- Urban cities have the highest total fares than the othe two city types. The total fares in urban cities is twice the total fares in the Suburban cities and nine times the total fares in the rural cities. 
+- Urban cities have the highest total fares than the other two city types. The total fares in urban cities is twice the total fares in the Suburban cities and nine times the total fares in the rural cities. 
 - However, in terms of average fare per ride, rural cities with the highest average fare per ride, followed by suburban and then the Urban cities. The difference however is not very high and is approximately in the range of (~$4 - $6) between the three city types.
 - The Average fare per Driver is the highest in Rural cities, followed by Suburban and the least in Urban cities. The Average fare per Driver in rural cities is three times higher than that in urban cities and around 1.4 times than suburban cities.
-
 - From the multi-line graph below, we find that the total weekly fares is highest in Urban cities, followed by Suburban cities and least in Rural cities.
+
 ![Total Weekly Fares by City type](analysis/PyBer_fare_summary.png)
 ## Summary
 - The results of the total number of rides,total number of drivers and total fares by city type show us that there is a lot of demand for Py-Ber rides in the Urban cities than rural or suburban cities. Hence, more revenue(~63%) comes from Urban cities. **Any improvements or new rollouts must be send out to this city type first**.
