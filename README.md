@@ -1,8 +1,8 @@
 # PyBer_Analysis by Ketaki
 ## Overview
 This project summarizes the Py-Ber data for the user by city type using Pandas and Python(Matplotlib). There are three city types in the given dataset - Rural, Urban and Suburban.
-- The first part of the project summarizes the data by city type in a DataFrame as below. This is achieved using the grouby(), sum() and count() functions.
-- The second part plots a multi-line graph that shows the total weekly fares for each city type as below. This is achieved using the pivot() and resample() functions of Pandas.
+- The first part of the project summarizes the data by city type in a DataFrame comprising of the total number of rides, total number of drivers, total fares, average fare by ride and average fare by driver. This is achieved using the grouby(), sum() and count() functions.
+- The second part plots a multi-line graph that shows the total weekly fares for each city type. This is achieved using the pivot() and resample() functions of Pandas.
 - We then highlight the diferences in data for each city type that can be used to make strategic decisions by the Py-Ber team.
 ## Results
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
