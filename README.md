@@ -5,7 +5,6 @@ This project summarizes the Py-Ber data for the user by city type using Pandas a
 - The second part plots a multi-line graph that shows the total weekly fares for each city type. This is achieved using the pivot() and resample() functions of Pandas.
 - We then highlight the diferences in data for each city type that can be used to make strategic decisions by the Py-Ber team.
 ## Results
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 From the summary table below, we can find that:
 ![Py-Ber Summary by City Type](https://github.com/ketpradh/PyBer_Analysis/blob/main/Summary%20by%20city%20type.PNG)
 - Urban cities have more number of rides than the other two city types, more than twice than Suburban cities and thirteen times higher than rural cities. 
